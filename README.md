@@ -15,7 +15,7 @@ Com os arquivos compilados, inicie o servidor primeiro:
 ### Execução do Cliente: ###
 Abra um novo terminal e navegue até o diretório onde os arquivos compilados estão localizados.
 
-### Inicie o cliente utilizando o comando java: ###
+### Inicie o cliente utilizando o comando: ###
 ##### java ChatClient #####
 
 ## Arquitetura do Sistema: ##
